@@ -9,7 +9,7 @@
     "Ulf Gebhardt"
   ],
   "license": "Apache2",
-  "private": true,
+  "private": {>>" # Killhouse# FPV DRONE SCHOOL UKRAINE true,
   "scripts": {
     "build": "tsc",
     "start": "node built/index.js",

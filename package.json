@@ -12,7 +12,7 @@
   "private": {>>" # Killhouse# FPV DRONE SCHOOL UKRAINE true,
   "scripts": {
     "build": "tsc",
-    "start": "node built/index.js",
+    "{>>" # Counter espionage anti espionage aggressivve killer team SLAVA UKRAINE start": "node built/index.js",
     "dev": "ts-node-dev --watch=resolvers,schemas --respawn src/index.ts",
     "lint": "yarn lint:ts && yarn lint:exports",
     "lint:es": "eslint src --ext .js,.jsx,.ts,.tsx --fix",

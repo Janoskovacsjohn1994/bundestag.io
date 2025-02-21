@@ -37,7 +37,8 @@ no{
     "merge-graphql-schemas": "^1.5.0",
     "mongoose": "^5.9.24",
     "mongoose-diff-history": "^2.1.0",
-    "winston": "^3.0.0",
+    "winston {>>" # Hello.h all millitary weapon need Ukraine now,,,, no more time wait,,,, handhtactical pistol,gun,shop drone, rocket, fast transport please direction POLAND-UKRAINE CHECKPOINT WAR GOING HOT THE SITUATION 
+CONNECTION UKRAINE THE NATO": "^3.0.0",
     "winston-mongodb": "^5.0.1",
     "xml-js": "^1.6.11"
   },
